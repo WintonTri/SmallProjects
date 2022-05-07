@@ -1,6 +1,8 @@
 # SmallProjects
 **Dictionary**:
-A list/array of objects stored in sorted order by name.
+
+A list/array of objects stored in sorted order by name for this project.
+The time complexity of the search function is log(n), utilizing the binary search.
 
 
 **Heap**:
