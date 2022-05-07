@@ -1,6 +1,6 @@
 # SmallProjects
 **Dictionary**:
-
+A list/array of objects stored in sorted order by name.
 
 
 **Heap**:
